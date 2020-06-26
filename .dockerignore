@@ -1,0 +1,6 @@
+# profiles
+*.out
+
+# git
+.git
+.gitignore
